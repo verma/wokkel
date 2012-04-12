@@ -1,4 +1,6 @@
 # Copyright (c) Uday Verma
+# Copyright (c) Ralph Meijer.
+#
 # See LICENSE for details.
 
 """

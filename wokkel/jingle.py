@@ -1,6 +1,8 @@
 # -*- test-case-name: wokkel.test.test_jingle -*-
 #
 # Copyright (c) Uday Verma
+# Copyright (c) Ralph Meijer.
+#
 # See LICENSE for details.
 
 """
